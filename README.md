@@ -13,10 +13,9 @@ Antes de iniciar, certifique-se de que você tem o Python instalado em sua máqu
  
 Para configurar o ambiente necessário para executar as interfaces, siga os passos abaixo:
 
+- yaspin pip install yaspin
 - pydobot pip install pydobot
 - inquirer pip install inquirer
-- yaspin pip install yaspin
-- typer pip install "typer[all]"
 - requirements.txt pip install -r requirements.txt pip freeze > requirements.txt
 
 
